@@ -29,7 +29,6 @@ education:
     "Self-Taught Developer and Designer",
     "Bachelor's in Electrical Engineering",
   ]
-company: Soulber
 
 fields_of_interests:
   [
